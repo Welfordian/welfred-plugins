@@ -1,4 +1,5 @@
 {
     "name": "Spotify Control",
-    "description": "Control Spotify from Welfred."
+    "description": "Control Spotify from Welfred.",
+    "icon": "fab fa-spotify"
 }
