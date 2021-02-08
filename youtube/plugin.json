@@ -1,4 +1,5 @@
 {
     "name": "YouTube Mini Player",
-    "description": "Adds a YouTube Mini Player to Welfred."
+    "description": "Adds a YouTube Mini Player to Welfred.",
+    "icon": "fab fa-youtube"
 }
